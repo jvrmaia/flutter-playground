@@ -25,7 +25,7 @@ $ sudo xcodebuild -runFirstLaunch
 $ sudo xcodebuild --license
 ```
 
-# Where I stop
+# Where I stopped
 
 https://docs.flutter.dev/get-started/test-drive?tab=vscode
 
