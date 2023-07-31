@@ -27,5 +27,5 @@ $ sudo xcodebuild --license
 
 # Where I stopped
 
-https://docs.flutter.dev/get-started/test-drive?tab=vscode
-
+- https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
+- https://docs.flutter.dev/get-started/learn-more
